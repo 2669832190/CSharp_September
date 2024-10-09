@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_23", "9_23.csproj", "{F06CF9F2-F876-4B18-8962-4C20B03E1B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "正则表达式", "正则表达式\正则表达式.csproj", "{0D2D5DAB-D9C4-404E-94E9-52605B5B5626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "下拉框", "下拉框\下拉框.csproj", "{A94C3451-3CE6-4013-9742-EA38FDD89AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二级联动（下拉框）", "二级联动（下拉框）\二级联动（下拉框）.csproj", "{10E66FDE-0C1B-4025-9246-A196BC9B6E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F06CF9F2-F876-4B18-8962-4C20B03E1B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06CF9F2-F876-4B18-8962-4C20B03E1B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06CF9F2-F876-4B18-8962-4C20B03E1B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06CF9F2-F876-4B18-8962-4C20B03E1B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2D5DAB-D9C4-404E-94E9-52605B5B5626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2D5DAB-D9C4-404E-94E9-52605B5B5626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2D5DAB-D9C4-404E-94E9-52605B5B5626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2D5DAB-D9C4-404E-94E9-52605B5B5626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94C3451-3CE6-4013-9742-EA38FDD89AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94C3451-3CE6-4013-9742-EA38FDD89AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94C3451-3CE6-4013-9742-EA38FDD89AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94C3451-3CE6-4013-9742-EA38FDD89AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E66FDE-0C1B-4025-9246-A196BC9B6E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E66FDE-0C1B-4025-9246-A196BC9B6E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E66FDE-0C1B-4025-9246-A196BC9B6E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E66FDE-0C1B-4025-9246-A196BC9B6E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CC0933E-F724-425A-9722-36BFC80D0716}
+	EndGlobalSection
+EndGlobal

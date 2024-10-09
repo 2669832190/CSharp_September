@@ -1,0 +1,109 @@
+﻿namespace 唐老师练习dome {
+	internal class Program {
+		static void Main(string[] args) {
+			//_1.T1();
+			//Console.ReadKey(true);
+			_1.T2();
+			Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+			//_1.maina();
+			//Console.ReadKey(true);
+
+
+
+
+
+
+			Console.WriteLine("Hello, World!");
+		}
+	}
+}

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9_19", "9_19.csproj", "{C4B3DBE8-621B-42ED-B2CC-46FB4055D46A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "File操作文档内容", "File操作文档内容\File操作文档内容.csproj", "{AA1194B9-8110-4DEC-B6FD-FC44BC3D6C35}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "File读写文本", "File读写文本\File读写文本.csproj", "{DA07E049-B42E-4669-93C9-D4824B00EB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_19作业", "..\9_19作业\9_19作业.csproj", "{CFC86151-C9E8-4A4C-8A0C-392948DA685E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Path_文件路径及文件名", "Path\Path_文件路径及文件名.csproj", "{2B2AB1FA-F760-45AA-9867-945E8FAD6220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_手动添加控件", "_手动添加控件\_手动添加控件.csproj", "{204C522D-D0BE-42C4-8067-E76767BEB453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4B3DBE8-621B-42ED-B2CC-46FB4055D46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B3DBE8-621B-42ED-B2CC-46FB4055D46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B3DBE8-621B-42ED-B2CC-46FB4055D46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B3DBE8-621B-42ED-B2CC-46FB4055D46A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1194B9-8110-4DEC-B6FD-FC44BC3D6C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1194B9-8110-4DEC-B6FD-FC44BC3D6C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1194B9-8110-4DEC-B6FD-FC44BC3D6C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1194B9-8110-4DEC-B6FD-FC44BC3D6C35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA07E049-B42E-4669-93C9-D4824B00EB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA07E049-B42E-4669-93C9-D4824B00EB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA07E049-B42E-4669-93C9-D4824B00EB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA07E049-B42E-4669-93C9-D4824B00EB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC86151-C9E8-4A4C-8A0C-392948DA685E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC86151-C9E8-4A4C-8A0C-392948DA685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC86151-C9E8-4A4C-8A0C-392948DA685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC86151-C9E8-4A4C-8A0C-392948DA685E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2AB1FA-F760-45AA-9867-945E8FAD6220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2AB1FA-F760-45AA-9867-945E8FAD6220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2AB1FA-F760-45AA-9867-945E8FAD6220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2AB1FA-F760-45AA-9867-945E8FAD6220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204C522D-D0BE-42C4-8067-E76767BEB453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204C522D-D0BE-42C4-8067-E76767BEB453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204C522D-D0BE-42C4-8067-E76767BEB453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204C522D-D0BE-42C4-8067-E76767BEB453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C94EFC61-D19D-4472-8B53-15F2ABDAF1F7}
+	EndGlobalSection
+EndGlobal
