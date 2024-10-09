@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "飞行棋", "飞行棋.csproj", "{75700DFD-71C6-4868-9AA1-9D07C145A3DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75700DFD-71C6-4868-9AA1-9D07C145A3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75700DFD-71C6-4868-9AA1-9D07C145A3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75700DFD-71C6-4868-9AA1-9D07C145A3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75700DFD-71C6-4868-9AA1-9D07C145A3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD297EF0-9010-489C-A3C1-0A5C218D9185}
+	EndGlobalSection
+EndGlobal

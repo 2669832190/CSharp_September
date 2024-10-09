@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9_25", "9_25.csproj", "{E73C1525-AD07-4A2D-B2BC-E70E5E25E53C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "序列化", "序列化\序列化.csproj", "{5F835712-4CF9-4C24-A4D6-24A440290922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E73C1525-AD07-4A2D-B2BC-E70E5E25E53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73C1525-AD07-4A2D-B2BC-E70E5E25E53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73C1525-AD07-4A2D-B2BC-E70E5E25E53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73C1525-AD07-4A2D-B2BC-E70E5E25E53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F835712-4CF9-4C24-A4D6-24A440290922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F835712-4CF9-4C24-A4D6-24A440290922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F835712-4CF9-4C24-A4D6-24A440290922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F835712-4CF9-4C24-A4D6-24A440290922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AB12B3B-3ADF-4FC3-991E-825F3FF91CC8}
+	EndGlobalSection
+EndGlobal

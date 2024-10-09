@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "作业答案", "作业答案\作业答案.csproj", "{55809E68-48AE-4510-9853-5BEE71B3983D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01静态自增", "01静态自增\01静态自增.csproj", "{E9BE54E9-12B3-4E72-B2AC-ACEF59DD6431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02命名空间", "02命名空间\02命名空间.csproj", "{8C27DF7A-EA23-4F73-99B0-BA4CF4D295B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03继承", "03继承\03继承.csproj", "{871A1458-05C1-43A8-9733-D85E1E59B145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04继承的特性", "04继承的特性\04继承的特性.csproj", "{CC32EC06-EE81-41B7-8D02-BC019F7DADAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05里氏转换", "05里氏转换\05里氏转换.csproj", "{34729E52-93E0-415F-921A-3BD06EDF3DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06只读和常量", "06只读和常量\06只读和常量.csproj", "{6EE3395A-71D2-4B40-BB5F-4EF8DBD40C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55809E68-48AE-4510-9853-5BEE71B3983D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55809E68-48AE-4510-9853-5BEE71B3983D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55809E68-48AE-4510-9853-5BEE71B3983D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55809E68-48AE-4510-9853-5BEE71B3983D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BE54E9-12B3-4E72-B2AC-ACEF59DD6431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BE54E9-12B3-4E72-B2AC-ACEF59DD6431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BE54E9-12B3-4E72-B2AC-ACEF59DD6431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BE54E9-12B3-4E72-B2AC-ACEF59DD6431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C27DF7A-EA23-4F73-99B0-BA4CF4D295B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C27DF7A-EA23-4F73-99B0-BA4CF4D295B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C27DF7A-EA23-4F73-99B0-BA4CF4D295B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C27DF7A-EA23-4F73-99B0-BA4CF4D295B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871A1458-05C1-43A8-9733-D85E1E59B145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871A1458-05C1-43A8-9733-D85E1E59B145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871A1458-05C1-43A8-9733-D85E1E59B145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871A1458-05C1-43A8-9733-D85E1E59B145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC32EC06-EE81-41B7-8D02-BC019F7DADAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC32EC06-EE81-41B7-8D02-BC019F7DADAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC32EC06-EE81-41B7-8D02-BC019F7DADAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC32EC06-EE81-41B7-8D02-BC019F7DADAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34729E52-93E0-415F-921A-3BD06EDF3DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34729E52-93E0-415F-921A-3BD06EDF3DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34729E52-93E0-415F-921A-3BD06EDF3DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34729E52-93E0-415F-921A-3BD06EDF3DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE3395A-71D2-4B40-BB5F-4EF8DBD40C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE3395A-71D2-4B40-BB5F-4EF8DBD40C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE3395A-71D2-4B40-BB5F-4EF8DBD40C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE3395A-71D2-4B40-BB5F-4EF8DBD40C83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06A82AFE-5DAB-4FF2-8E56-0FE427FE02C9}
+	EndGlobalSection
+EndGlobal
